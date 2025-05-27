@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+.header-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:5 px;
+    
+}
+
+.list-form {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    height: 80vh;
+    background-color: aqua;
+    
+}
+.list-info {
+    font-family: serif;
+    font-weight: 600;
+    text-transform: capitalize;
+    
+
+}
